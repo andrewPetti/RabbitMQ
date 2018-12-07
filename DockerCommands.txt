@@ -1,0 +1,2 @@
+Docker command to start RabbitMQ default image from docker hub used for rabbit Hello World:
+docker run -p 5672:5672 -h myRabbit --name RabbitMQServer rabbitmq

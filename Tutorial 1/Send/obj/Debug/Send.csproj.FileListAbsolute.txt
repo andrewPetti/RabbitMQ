@@ -1,0 +1,12 @@
+D:\Perforce\RabbitMQ\RabbitHelloWorld\Send\bin\Debug\Send.exe.config
+D:\Perforce\RabbitMQ\RabbitHelloWorld\Send\bin\Debug\Send.exe
+D:\Perforce\RabbitMQ\RabbitHelloWorld\Send\bin\Debug\Send.pdb
+D:\Perforce\RabbitMQ\RabbitHelloWorld\Send\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Perforce\RabbitMQ\RabbitHelloWorld\Send\bin\Debug\RabbitMQ.Client.dll
+D:\Perforce\RabbitMQ\RabbitHelloWorld\Send\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Perforce\RabbitMQ\RabbitHelloWorld\Send\bin\Debug\RabbitMQ.Client.xml
+D:\Perforce\RabbitMQ\RabbitHelloWorld\Send\obj\Debug\Send.csprojAssemblyReference.cache
+D:\Perforce\RabbitMQ\RabbitHelloWorld\Send\obj\Debug\Send.csproj.CoreCompileInputs.cache
+D:\Perforce\RabbitMQ\RabbitHelloWorld\Send\obj\Debug\Send.csproj.CopyComplete
+D:\Perforce\RabbitMQ\RabbitHelloWorld\Send\obj\Debug\Send.exe
+D:\Perforce\RabbitMQ\RabbitHelloWorld\Send\obj\Debug\Send.pdb
