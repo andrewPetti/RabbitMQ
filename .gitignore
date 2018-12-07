@@ -42,3 +42,5 @@ RabbitHelloWorld/Recieve/bin/
 RabbitHelloWorld/Send/bin/
 
 RabbitHelloWorld/Send/obj/
+
+packages/
