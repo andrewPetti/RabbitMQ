@@ -44,3 +44,7 @@ RabbitHelloWorld/Send/bin/
 RabbitHelloWorld/Send/obj/
 
 packages/
+
+T2 WorkQueues/obj/
+
+T2 WorkQueues/\.vs/

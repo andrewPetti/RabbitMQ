@@ -1,0 +1,12 @@
+D:\Perforce\Git\RabbitMQ\T2 WorkQueues\Worker\bin\Debug\Worker.exe.config
+D:\Perforce\Git\RabbitMQ\T2 WorkQueues\Worker\bin\Debug\Worker.exe
+D:\Perforce\Git\RabbitMQ\T2 WorkQueues\Worker\bin\Debug\Worker.pdb
+D:\Perforce\Git\RabbitMQ\T2 WorkQueues\Worker\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Perforce\Git\RabbitMQ\T2 WorkQueues\Worker\bin\Debug\RabbitMQ.Client.dll
+D:\Perforce\Git\RabbitMQ\T2 WorkQueues\Worker\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Perforce\Git\RabbitMQ\T2 WorkQueues\Worker\bin\Debug\RabbitMQ.Client.xml
+D:\Perforce\Git\RabbitMQ\T2 WorkQueues\Worker\obj\Debug\Worker.csprojAssemblyReference.cache
+D:\Perforce\Git\RabbitMQ\T2 WorkQueues\Worker\obj\Debug\Worker.csproj.CoreCompileInputs.cache
+D:\Perforce\Git\RabbitMQ\T2 WorkQueues\Worker\obj\Debug\Worker.csproj.CopyComplete
+D:\Perforce\Git\RabbitMQ\T2 WorkQueues\Worker\obj\Debug\Worker.exe
+D:\Perforce\Git\RabbitMQ\T2 WorkQueues\Worker\obj\Debug\Worker.pdb
